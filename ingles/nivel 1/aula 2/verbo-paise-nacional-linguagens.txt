@@ -90,3 +90,14 @@ Great Britain - British
 France - French
 Russia - Russian
 Portugal - Portuguese
+
+Africa:
+South Africa - South African
+Egypt - Egyptian
+Morocco - Moroccan
+
+Asia:
+Japan - Japanese
+China - Chinese
+Korea - Korean
+Saudi Arabia - Saudi
