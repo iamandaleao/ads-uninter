@@ -1,0 +1,26 @@
+WHO → Quem
+WHAT → O quê / Qual
+WHERE → Onde
+WHEN → Quando
+WHY → Por que
+HOW → Como
+-----------------------------------------------------------------------
+WH- questions
+
+Who is your neighbor? ✔ Alfredo is my neighbor.
+(Quem é seu vizinho?) ✔ Alfredo é meu vizinho.
+
+What is your favorite food?     ✔ My favorite food is Italian.
+(Qual é a sua comida favorita?) ✔ Minha comida favorita é italiana.
+
+Where is your house? ✔ It is in front of the school.
+(Onde é a sua casa?) ✔ Ela fica em frente à escola.
+
+How old are you?         ✔ I am 25 years old.
+(Quantos anos você tem?) ✔ Eu tenho 25 anos.
+
+What is your phone number?          ✔ It is 4993–2980.
+(Qual é o seu número de telefone?)  ✔ É 4993–2980.
+
+Where is your house?   ✔ At 56, Brazil Avenue.
+(Onde é a sua casa?)   ✔ Na Avenida Brasil, nº 56.
