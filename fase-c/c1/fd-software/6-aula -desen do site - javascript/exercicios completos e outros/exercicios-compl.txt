@@ -1,0 +1,14 @@
+Exercício 1  
+Crie um botão que muda de cor com o seguinte padrão:
+Seu fundo deve ser azul quando o mouse estiver afastado, verde quando estiver sobre o botão e vermelho, exibindo a mensagem "quebrei", quando clicado. Depois de "quebrado", ele não deve mais modificar
+✓ Dica:
+document.getElementById("p2").style.backgroundColor="blue"
+
+Exercício 2
+Crie uma calculadora com as quatro operações básicas utilizando JavaScript
+Utilize dois campos input para o preenchimento dos valores, um campo select para a seleção da operação desejada, um campo div para resposta e um button para solicitar o cálculo
+document.getElementById("campoTexto").value = "10";
+parseInt("5");
+
+Exercício 3
+Modifique a calculadora do exercício anterior removendo o botão e fazendo com que qualquer alteração de valor em qualquer um dos campos faça a resposta ser automaticamente calculada

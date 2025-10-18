@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <!-- meta charset define a codificação de caracteres (UTF-8 = suporta acentos e emojis) -->
+    <meta charset="UTF-8" />
+    <!-- meta viewport ajuda a página a se adaptar em celulares -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tabela de Pets</title>
+  </head>
+  <body>
+    <!-- table = cria a tabela -->
+    <!-- border, cellspacing e cellpadding só foram colocados para visualizar melhor -->
+    <table border="1" cellspacing="0" cellpadding="10">
+
+      <!-- tr = table row (linha da tabela) -->
+      <tr>
+        <!-- th = table header (cabeçalho da coluna) -->
+        <th>Gatos</th>
+        <th>Cachorros</th>
+      </tr>
+
+      <!-- nova linha -->
+      <tr>
+        <!-- td = table data (célula de conteúdo da tabela) -->
+        <td>
+          <!-- a = link. Se clicar na imagem, abre o site da Petlove -->
+          <a href="https://www.petlove.com.br/dicas/nutricao-de-caes-e-gatos-guia-completo">
+            <!-- img = imagem. 
+                 src = caminho do arquivo
+                 alt = texto alternativo (aparece se a imagem não carregar, e também ajuda acessibilidade)
+                 height = altura da imagem -->
+            <img src="imagens/dog-gato.jpg" alt="gatinho e cachorro" style="width:250px; height:200px; object-fit:cover;"/>
+          </a>
+        </td>
+
+        <td>
+          <a href="https://www.petlove.com.br/dicas/nutricao-de-caes-e-gatos-guia-completo">
+            <img src="imagens/dog.jpg" alt="doguinho" style="width:250px; height:200px; object-fit:cover;" />
+          </a>
+        </td>
+      </tr>
+
+      <!-- nova linha -->
+      <tr>
+        <td>
+          <a href="https://www.petlove.com.br/dicas/nutricao-de-caes-e-gatos-guia-completo">
+            <img src="imagens/gato.webp" alt="gatinho" style="width:250px; height:200px; object-fit:cover;" />
+          </a>
+        </td>
+        <td>
+          <!-- célula vazia para manter a simetria da tabela -->
+          <span>---</span>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
