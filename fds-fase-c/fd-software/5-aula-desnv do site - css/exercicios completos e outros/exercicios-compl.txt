@@ -1,8 +1,0 @@
-Exercício 1  
-Faça uma página na qual existam quadrados de cores distintas ocupando os quatro cantos da tela com um texto dentro
-
-Exercício 2
-Crie uma imagem com um link que tenha comportamentos diferentes quando visitado e quando o cursor está sobre a imagem
-
-Exercício 3
-Crie uma lista com marcadores personalizados e uma cor de fundo diferente para itens em posições pares e ímpares
