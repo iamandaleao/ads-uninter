@@ -1,5 +1,5 @@
 # PARTE 1: ENTRADA DE DADOS
-# Pede pro usuário digitar dois números e guarda nas variáveis
+# Pede para o usuário digitar dois números e guarda nas variáveis
 inicial = int(input('Digite um valor inicial:'))  # int() converte o texto digitado em número inteiro
 final = int(input('Digite um valor final:'))
 
